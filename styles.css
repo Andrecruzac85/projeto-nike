@@ -124,83 +124,77 @@ p {
 .rosa {
     background: #ff9eb5;
 }
+
 @media screen and (max-width: 700px) {
 
     body {
-         background: #ffffff;
+        background: #ffffff;
         color: rgb(242, 235, 235);
         padding: 20px 160px;
         height: 100vh;
-        padding: 20px 20px; /* Reduzir padding lateral */
-        height: auto; /* Ajustar altura para conteúdo */
-        overflow-y: auto; /* Permitir rolagem vertical se necessário */
+        padding: 20px 20px;
+        height: auto;
+        overflow-y: auto;    
     }
 
     body::after {
-        font-size: 150px; /* Diminuir o tamanho do texto de fundo */
+        font-size: 150px;
     }
 
     h1 {
-        font-size: 40px; /* Reduzir tamanho do título principal */
+        font-size: 40px;
         text-align: center;
     }
 
     h4 {
-        font-size: 20px; /* Reduzir tamanho do subtítulo */
+        font-size: 20px;
     }
 
     p {
-       
         width: 400px;
-}
-body::before {
-    content: '';
-    background: #202020;
-  position: relative;
-    top: 0;
-    left: -600px;
-    transform: rotate(-70deg);
-    width: 100%;
-    height: 120%;
+    }
 
-}
-.imagem-pessoa {
-    position: absolute;
-    left: 3%;
-    margin-top: 90%;
-    width: 300px;
-    transform: rotate(-25deg);
-    transition: 1s;
-   
-}
-.insta {
-    position: absolute;
-    margin-left: 0;
-    bottom: 80%;
-}
+    body::before {
+        content: '';
+        background: #202020;
+        position: relative;
+        top: 0;
+        left: -600px;
+        transform: rotate(-70deg);
+        width: 100%;
+        height: 120%;
 
-.endereço {
-    position: absolute;
-    margin-left: 0;
-  top: 90%;
-}
-body::after {
-    content: 'Noiva & Cia';
-    position: absolute;
-    top:45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: black;
-    font-size: 100px;
-    font-weight: bold;
-    opacity: 0.1;
+    }
 
-}
-.caixa-botoes {
-    text-align: center;
-    color: #161616;
-    gap: 20px;
-    position: absolute;
-    margin-top: 25%;
-}
+    .imagem-tenis {
+        position: absolute;
+        left: 3%;
+        margin-top: 90%;
+        width: 300px;
+        transform: rotate(-25deg);
+        transition: 1s;
+
+    }
+
+    body::after {
+        content: 'Nike';
+        position: absolute;
+        top: 45%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: black;
+        font-size: 100px;
+        font-weight: bold;
+        opacity: 0.1;
+
+    }
+
+    .caixa-botoes {
+        text-align: center;
+        color: #161616;
+        gap: 20px;
+        position: absolute;
+        margin-top: 25%;
+        border-radius: 50%;
+    }
 }

@@ -20,9 +20,13 @@ Ao clicar nos botões com diferentes cores de tênis, o modelo exibido na tela �
 - Interface inspirada no visual moderno da Nike
 
 - ## Desktop
+- 
 - <img scr = "https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/portifolio%20nike%201.png?raw=true">
+<img scr = "https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/portifolio%20nike%202.png?raw=true">
 <img scr = "">
-<img scr = "">
+
+## Smartphone
+
 <img scr = "">
 <img scr = "">
 <img scr = "">

@@ -29,5 +29,5 @@ Ao clicar nos botões com diferentes cores de tênis, o modelo exibido na tela �
 
 <img scr = "https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/nike1.png?raw=true">
 <img scr = "https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/nike%202.png?raw=true">
-<img scr = "">
+<img scr = "https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/nike%203.png?raw=true">
 

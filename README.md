@@ -22,7 +22,7 @@ Ao clicar nos botões com diferentes cores de tênis, o modelo exibido na tela �
 ## Desktop
 - <img src="https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/portifolio%20nike%201.png?raw=true"/>
 - <img src="https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/portifolio%20nike%203.png?raw=true"/>
-- <img src=""/>
+- <img src="https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/portifolio%20nike%202.png?raw=true"/>
 
 ## Smartphone
 

@@ -26,7 +26,7 @@ Ao clicar nos botões com diferentes cores de tênis, o modelo exibido na tela �
 
 ## Smartphone
 
-- <img src=""/>
+- <img src="https://github.com/Andrecruzac85/projeto-nike/blob/main/assets/nike%203.png?raw=true"/>
 - <img src=""/>
 - <img src=""/>
 
